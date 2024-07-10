@@ -1,2 +1,0 @@
-print("helo from git")
-print("helo from github")
